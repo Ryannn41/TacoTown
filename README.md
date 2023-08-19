@@ -1,5 +1,5 @@
 # TacoTown
-A dynamic taco recipe website for practicing EJS, JSON, and HTTP protocols. <br>
+A dynamic taco recipe website for me to practice EJS, JSON, and HTTP protocols. <br>
 To visit this website: <br>
 1. Clone the repository <br>
 2. Run in terminal: `npm i` <br>
